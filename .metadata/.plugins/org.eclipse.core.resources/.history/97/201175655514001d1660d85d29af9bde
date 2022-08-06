@@ -1,0 +1,20 @@
+package org.zerock.service;
+
+import java.util.List;
+
+import org.zerock.domain.BoardVO;
+
+public interface BoardService {
+	
+	//글 등록
+	public void register(BoardVO board);
+	
+	//특정 게시글 select
+	public BoardVO getList(Long bno);
+	
+	//글 수정
+	public boolean modify(BoardVO board);
+	
+	//전체 게시글 select
+	public List<BoardVO> getList();
+}

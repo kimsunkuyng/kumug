@@ -1,0 +1,24 @@
+package org.zerock.sample;
+
+import static org.junit.Assert.assertNotNull;
+
+import org.junit.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+
+import lombok.Setter;
+import lombok.extern.log4j.Log4j;
+
+@Log4j
+public class HotelTests {
+	@Setter(onMethod_ = {@Autowired})
+	private sampleHotel hotel;
+	
+	@Test
+	public void testExit() {
+		assertNotNull(hotel);
+		
+		log.info(hotel);
+		log.info("-------------------------------------------------------");
+		log.info(hotel.getChef());
+	}
+}

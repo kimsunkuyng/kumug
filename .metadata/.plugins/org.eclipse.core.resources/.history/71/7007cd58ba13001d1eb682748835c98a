@@ -1,0 +1,21 @@
+package org.zerock.mapper;
+
+import org.junit.runner.RunWith;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.test.context.ContextConfiguration;
+import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
+
+import lombok.Setter;
+import lombok.extern.log4j.Log4j;
+
+// 기본 테스트 러너 대신 이 클래스로 테스트를 실행하겠다.
+@RunWith(SpringJUnit4ClassRunner.class)
+@ContextConfiguration("src/main/webapp/WEB-INF/spring/root-context.xml")
+@Log4j
+public class BoardMapperTests {
+	
+	@Setter(onMethod_ = @Autowired)
+	private BoardMapper mapper;
+	
+	
+}

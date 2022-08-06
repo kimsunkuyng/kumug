@@ -1,0 +1,10 @@
+package org.zerock.domain;
+
+public class BoardVO {
+	private Long bno;
+	private String content;
+	private String WRITER;
+	private Date REGDATE;
+	private Date REGDATE;
+	
+}

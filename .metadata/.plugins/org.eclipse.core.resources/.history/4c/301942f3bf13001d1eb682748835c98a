@@ -1,0 +1,19 @@
+package org.zerock.domain;
+
+import java.util.Date;
+
+import lombok.Data;
+
+// 다른 클래스에서 객체로 호출되면 set,get 메소드가 자동으로 생겨난다. 쩐다..
+@Data
+public class BoardVO {
+	
+	private Long bno;
+	private String title;
+	private String content;
+	private String writer;
+	private Date regdate;
+	private Date updatedate;
+	private Date UPDATEDATE;
+	
+}

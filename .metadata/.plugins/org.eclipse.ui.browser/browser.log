@@ -1,0 +1,48 @@
+
+8월 01, 2022 15:51:04.965 NEW SESSION
+8월 01, 2022 15:51:04.965 [37404:27736:0801/155104.962:ERROR:device_event_log_impl.cc(214)] [15:51:04.962] USB: usb_service_win.cc:415 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
+8월 01, 2022 15:51:04.967 [37404:27736:0801/155104.964:ERROR:device_event_log_impl.cc(214)] [15:51:04.963] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+8월 01, 2022 15:51:04.967 [37404:27736:0801/155104.964:ERROR:device_event_log_impl.cc(214)] [15:51:04.964] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+
+8월 03, 2022 17:16:41.588 NEW SESSION
+8월 03, 2022 17:16:41.588 [8656:22212:0803/171641.586:ERROR:device_event_log_impl.cc(214)] [17:16:41.587] USB: usb_service_win.cc:415 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
+8월 03, 2022 17:16:41.589 [8656:22212:0803/171641.588:ERROR:device_event_log_impl.cc(214)] [17:16:41.589] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+8월 03, 2022 17:16:41.589 [8656:22212:0803/171641.588:ERROR:device_event_log_impl.cc(214)] [17:16:41.589] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+8월 03, 2022 17:17:39.458 [8656:18156:0803/171739.458:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+8월 03, 2022 17:40:14.924 [8656:22212:0803/174014.924:ERROR:interface_endpoint_client.cc(665)] Message 0 rejected by interface blink.mojom.WidgetHost
+8월 03, 2022 19:15:39.31 [8656:11132:0803/191539.031:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+8월 03, 2022 19:16:01.302 [8656:11132:0803/191601.302:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+8월 03, 2022 19:16:55.677 [8656:11132:0803/191655.677:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+8월 03, 2022 19:36:46.336 [8656:22212:0803/193646.335:ERROR:interface_endpoint_client.cc(665)] Message 5 rejected by interface blink.mojom.WidgetHost
+8월 03, 2022 21:09:42.106 [8656:22212:0803/210942.105:ERROR:interface_endpoint_client.cc(665)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+8월 05, 2022 20:18:19.398 NEW SESSION
+8월 05, 2022 20:18:19.398 [27092:8352:0805/201819.396:ERROR:device_event_log_impl.cc(214)] [20:18:19.396] USB: usb_service_win.cc:415 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
+8월 05, 2022 20:18:19.399 [27092:8352:0805/201819.398:ERROR:device_event_log_impl.cc(214)] [20:18:19.398] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+8월 05, 2022 20:18:19.400 [27092:8352:0805/201819.399:ERROR:device_event_log_impl.cc(214)] [20:18:19.399] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+8월 05, 2022 20:19:17.288 [27092:31116:0805/201917.288:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+8월 05, 2022 21:38:26.416 [27092:18564:0805/213826.415:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -7
+8월 05, 2022 22:15:10.906 [27092:18564:0805/221510.906:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -7
+8월 06, 2022 03:12:45.762 [27092:28888:0806/031245.761:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+8월 06, 2022 18:09:05.349 [27092:1440:0806/180905.349:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+8월 06, 2022 18:09:05.950 [27092:18564:0806/180905.950:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+8월 06, 2022 18:09:06.560 [27092:18564:0806/180906.560:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+8월 06, 2022 18:09:06.578 [27092:28888:0806/180906.577:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+8월 06, 2022 18:09:09.884 [27092:8352:0806/180909.884:ERROR:device_event_log_impl.cc(214)] [18:09:09.884] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+8월 06, 2022 18:09:39.153 [27092:8352:0806/180939.153:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+8월 06, 2022 18:10:20.364 [27092:19880:0806/181020.364:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+8월 06, 2022 18:10:36.573 [27092:18564:0806/181036.573:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+8월 06, 2022 18:12:12.871 [27092:26904:0806/181212.870:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+8월 06, 2022 18:14:36.295 [27092:18564:0806/181436.295:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+8월 06, 2022 18:16:54.151 [27092:26904:0806/181654.150:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+8월 06, 2022 19:05:28.728 [27092:18564:0806/190528.728:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -7
+8월 06, 2022 19:05:30.787 [27092:18564:0806/190530.786:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+8월 06, 2022 19:06:30.516 [27092:18564:0806/190630.516:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+8월 06, 2022 19:08:00.498 [27092:18564:0806/190800.497:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+8월 06, 2022 20:44:17.204 [27092:18564:0806/204417.203:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+8월 06, 2022 20:44:42.358 [27092:18564:0806/204442.358:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+8월 06, 2022 20:45:35.180 [27092:18564:0806/204535.180:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+8월 06, 2022 20:47:33.311 [27092:18564:0806/204733.311:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+8월 06, 2022 20:51:33.252 [27092:18564:0806/205133.251:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+8월 06, 2022 20:57:37.438 [27092:18564:0806/205737.437:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+8월 06, 2022 21:07:37.439 [27092:18564:0806/210737.439:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106

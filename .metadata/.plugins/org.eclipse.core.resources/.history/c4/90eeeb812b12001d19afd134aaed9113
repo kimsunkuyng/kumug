@@ -1,0 +1,6 @@
+package org.zerock.persistence;
+
+log4
+public class JDBCTests {
+
+}

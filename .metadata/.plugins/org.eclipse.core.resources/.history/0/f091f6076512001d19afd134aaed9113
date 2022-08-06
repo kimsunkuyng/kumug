@@ -1,0 +1,7 @@
+package org.zerock.persistence;
+
+import org.junit.runner.RunWith;
+
+public class TimeMapperTests {
+	@RunWith()
+}
