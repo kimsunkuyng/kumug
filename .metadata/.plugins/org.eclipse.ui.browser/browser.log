@@ -46,3 +46,9 @@
 8월 06, 2022 20:51:33.252 [27092:18564:0806/205133.251:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
 8월 06, 2022 20:57:37.438 [27092:18564:0806/205737.437:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
 8월 06, 2022 21:07:37.439 [27092:18564:0806/210737.439:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+
+8월 08, 2022 08:48:05.344 NEW SESSION
+8월 08, 2022 08:48:05.344 [3324:10280:0808/084805.341:ERROR:device_event_log_impl.cc(214)] [08:48:05.341] USB: usb_service_win.cc:415 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
+8월 08, 2022 08:48:05.346 [3324:10280:0808/084805.343:ERROR:device_event_log_impl.cc(214)] [08:48:05.344] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+8월 08, 2022 08:48:05.346 [3324:10280:0808/084805.345:ERROR:device_event_log_impl.cc(214)] [08:48:05.345] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+8월 08, 2022 08:49:02.948 [3324:3220:0808/084902.947:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
