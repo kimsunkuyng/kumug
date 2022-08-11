@@ -1,0 +1,20 @@
+package org.zerock.domain;
+
+import lombok.Setter;
+import lombok.ToString;
+
+@Setter
+@ToString
+public class pageDTO {
+	private int startPage;
+	private int endPage;
+	private boolean prev, next;
+	
+	private int total;
+	private Criteria cri;
+	
+	public pageDTO(Criteria cri, int total) {
+		
+		this.cri = cri;
+	}
+}

@@ -2,27 +2,27 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="history"/>
+		<item key="selection" value="/modify"/>
 		<item key="casesensitive" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="wrap" value="true"/>
 		<item key="wholeword" value="false"/>
 		<list key="findhistory">
-			<item value="history"/>
-			<item value="hisotry"/>
-			<item value="tbody"/>
-			<item value="table"/>
-			<item value="filter"/>
-			<item value="ilter"/>
+			<item value="/modify"/>
+			<item value="panel-heading"/>
+			<item value="operForm"/>
+			<item value="move"/>
 			<item value="list"/>
-			<item value="$"/>
-			<item value="4"/>
-			<item value="jquery"/>
-			<item value="wrapper"/>
-			<item value="jquery.min.js"/>
-			<item value="page-wrapper"/>
-			<item value="Page-wrapper"/>
-			<item value="../"/>
+			<item value="lisy"/>
+			<item value="input"/>
+			<item value="board.title"/>
+			<item value="pageNum"/>
+			<item value="amount"/>
+			<item value="actionForm"/>
+			<item value="form"/>
+			<item value="pre"/>
+			<item value="bef"/>
+			<item value="Showing"/>
 		</list>
 		<list key="replacehistory">
 			<item value="/resources/"/>
@@ -32,7 +32,7 @@
 		<item key="DIALOG_WIDTH" value="340"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 		<item key="DIALOG_HEIGHT" value="454"/>
-		<item key="DIALOG_X_ORIGIN" value="79"/>
-		<item key="DIALOG_Y_ORIGIN" value="202"/>
+		<item key="DIALOG_X_ORIGIN" value="178"/>
+		<item key="DIALOG_Y_ORIGIN" value="538"/>
 	</section>
 </section>

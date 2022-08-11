@@ -1,8 +1,0 @@
-package org.zerock.persistence;
-
-import org.junit.runner.RunWith;
-import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
-
-public class TimeMapperTests {
-	@RunWith(SpringJUnit4ClassRunner.class)
-}
